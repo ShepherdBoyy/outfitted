@@ -1,8 +1,14 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Outfitted
 
-Currently, two official plugins are available:
+### A fashion inspiration + outfit planning app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>
+  <img src="https://img.shields.io/badge/status-in%20development-yellow?style=flat-square" alt="status" />
+  <img src="https://img.shields.io/github/last-commit/ShepherdBoyy/outfitted?style=flat-square" alt="last commit" />
+  <img src="https://img.shields.io/github/languages/top/ShepherdBoyy/outfitted?style=flat-square" alt="top language" />
+  <img src="https://img.shields.io/badge/deployed-GitHub%20Pages-222?style=flat-square&logo=github&logoColor=white" alt="deployed on GitHub Pages" />
+</p>
+
+</div>
